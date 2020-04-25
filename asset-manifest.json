@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/AdamAlinauskas/hello/static/css/main.d1b05096.chunk.css",
-    "main.js": "/AdamAlinauskas/hello/static/js/main.faa92f27.chunk.js",
-    "main.js.map": "/AdamAlinauskas/hello/static/js/main.faa92f27.chunk.js.map",
-    "runtime-main.js": "/AdamAlinauskas/hello/static/js/runtime-main.9e62a2d2.js",
-    "runtime-main.js.map": "/AdamAlinauskas/hello/static/js/runtime-main.9e62a2d2.js.map",
-    "static/js/2.5260cd7f.chunk.js": "/AdamAlinauskas/hello/static/js/2.5260cd7f.chunk.js",
-    "static/js/2.5260cd7f.chunk.js.map": "/AdamAlinauskas/hello/static/js/2.5260cd7f.chunk.js.map",
-    "index.html": "/AdamAlinauskas/hello/index.html",
-    "precache-manifest.060d866a31072ed0bfa794c360bc8eb2.js": "/AdamAlinauskas/hello/precache-manifest.060d866a31072ed0bfa794c360bc8eb2.js",
-    "service-worker.js": "/AdamAlinauskas/hello/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/AdamAlinauskas/hello/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.5260cd7f.chunk.js.LICENSE.txt": "/AdamAlinauskas/hello/static/js/2.5260cd7f.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/AdamAlinauskas/hello/static/media/logo.5d5d9eef.svg"
+    "main.css": "/my-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/my-app/static/js/main.53a94a9b.chunk.js",
+    "main.js.map": "/my-app/static/js/main.53a94a9b.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.ac10f4cc.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.ac10f4cc.js.map",
+    "static/js/2.5260cd7f.chunk.js": "/my-app/static/js/2.5260cd7f.chunk.js",
+    "static/js/2.5260cd7f.chunk.js.map": "/my-app/static/js/2.5260cd7f.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.768a090bc4fc033f15b042a2c84c8f53.js": "/my-app/precache-manifest.768a090bc4fc033f15b042a2c84c8f53.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/my-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.5260cd7f.chunk.js.LICENSE.txt": "/my-app/static/js/2.5260cd7f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/my-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e62a2d2.js",
+    "static/js/runtime-main.ac10f4cc.js",
     "static/js/2.5260cd7f.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.faa92f27.chunk.js"
+    "static/js/main.53a94a9b.chunk.js"
   ]
 }
